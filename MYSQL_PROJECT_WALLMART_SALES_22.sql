@@ -11,7 +11,6 @@ order by city;
 
 ### Product
 
-
 -- 1. How many unique product lines does the data have?
 select distinct(`Product line`) from walmartsales;
 
